@@ -1,1 +1,0 @@
-Third attempt to show what i know about git commands
